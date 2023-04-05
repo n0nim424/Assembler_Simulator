@@ -1,0 +1,119 @@
+﻿  my_assembler_20180262.c
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(140,25): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char *[256]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(140,25): warning C4024: 'fgets': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(141,72): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char *[256]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(141,72): warning C4024: 'strlen': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(142,35): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char *[256]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(142,35): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(325,84): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(329,90): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(335,71): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(340,77): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(347,71): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(352,77): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(591,38): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(713,82): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(716,88): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(790,88): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[10]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(790,88): warning C4024: 'strcmp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(792,51): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(797,37): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[256]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(797,37): warning C4024: 'strncpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(798,40): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[256]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(798,40): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(798,67): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[10]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(798,67): warning C4024: 'strcmp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(801,59): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(807,82): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[10]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(807,82): warning C4024: 'strcmp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(815,59): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(849,49): warning C4047: '함수': 'char *const '의 간접 참조 수준이 'char (*)[256]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(849,49): warning C4024: 'sprintf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(854,44): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[256]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(854,44): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(855,43): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(855,43): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(855,49): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[256]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(855,49): warning C4024: 'strcpy': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(864,41): warning C4047: '함수': 'char *const '의 간접 참조 수준이 'char (*)[256]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(864,41): warning C4024: 'sprintf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(864,43): warning C4477: 'sprintf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(864,43): warning C4313: 'sprintf': 서식 문자열의 '%c'이(가) 인수 1('char *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(869,36): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(869,36): warning C4024: 'strncpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(873,32): warning C4047: '함수': 'char *const '의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(873,32): warning C4024: 'sprintf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(873,34): warning C4477: 'sprintf' : 서식 문자열 '%06X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(873,34): warning C4313: 'sprintf': 서식 문자열의 '%X'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(880,35): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(880,35): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(881,36): warning C4047: '함수': 'char *const '의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(881,36): warning C4024: 'sprintf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(884,35): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(884,35): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(885,36): warning C4047: '함수': 'char *const '의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(885,36): warning C4024: 'sprintf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(889,35): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(889,35): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(890,36): warning C4047: '함수': 'char *const '의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(890,36): warning C4024: 'sprintf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(894,35): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(894,35): warning C4024: 'strcpy': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(895,36): warning C4047: '함수': 'char *const '의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(895,36): warning C4024: 'sprintf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(906,41): warning C4477: 'sprintf' : 서식 문자열 '%05X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(906,41): warning C4313: 'sprintf': 서식 문자열의 '%X'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(942,49): warning C4477: 'sprintf' : 서식 문자열 '%03X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(942,49): warning C4313: 'sprintf': 서식 문자열의 '%X'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(945,45): warning C4311: '형식 캐스트': 'int *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(945,55): warning C4311: '형식 캐스트': 'int *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(946,69): warning C4311: '형식 캐스트': 'int *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(946,78): warning C4311: '형식 캐스트': 'int *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(948,45): warning C4311: '형식 캐스트': 'int *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(948,54): warning C4311: '형식 캐스트': 'int *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(949,69): warning C4311: '형식 캐스트': 'int *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(949,88): warning C4311: '형식 캐스트': 'int *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(984,69): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[10]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(984,69): warning C4024: 'strcmp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(986,57): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(989,39): warning C4477: 'fprintf' : 서식 문자열 '%06X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(989,39): warning C4313: 'fprintf': 서식 문자열의 '%X'이(가) 인수 2('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1006,47): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1006,47): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1007,73): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1011,82): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1022,32): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1022,32): warning C4024: 'strncmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1024,88): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1024,88): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 4개가 제공되었습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1031,39): warning C4477: 'fprintf' : 서식 문자열 '%06X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1031,39): warning C4313: 'fprintf': 서식 문자열의 '%X'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1035,39): warning C4477: 'fprintf' : 서식 문자열 '%06X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1035,39): warning C4313: 'fprintf': 서식 문자열의 '%X'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1048,39): warning C4477: 'fprintf' : 서식 문자열 '%06X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1048,39): warning C4313: 'fprintf': 서식 문자열의 '%X'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1075,65): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[10]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1075,65): warning C4024: 'strcmp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1077,53): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1080,28): warning C4477: 'printf' : 서식 문자열 '%06X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1080,28): warning C4313: 'printf': 서식 문자열의 '%X'이(가) 인수 2('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1097,43): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1097,43): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1098,69): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1102,78): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1113,28): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[9]'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1113,28): warning C4024: 'strncmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1115,77): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1115,77): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 4개가 제공되었습니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1122,28): warning C4477: 'printf' : 서식 문자열 '%06X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1122,28): warning C4313: 'printf': 서식 문자열의 '%X'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1126,28): warning C4477: 'printf' : 서식 문자열 '%06X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1126,28): warning C4313: 'printf': 서식 문자열의 '%X'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1139,28): warning C4477: 'printf' : 서식 문자열 '%06X'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(1139,28): warning C4313: 'printf': 서식 문자열의 '%X'이(가) 인수 1('int *' 형식)과(와) 충돌합니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(657,1): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(658,1): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(659,1): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(758,1): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\SPpro1\my_assembler_20180262.c(637): warning C4716: 'assem_pass2': 값을 반환해야 합니다.
+  SPpro1.vcxproj -> C:\Users\강유진\Desktop\시스템 프로그래밍\SPpro1\x64\Debug\SPpro1.exe
